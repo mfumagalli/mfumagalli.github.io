@@ -1,6 +1,4 @@
 
-# Software
-
 We implemented software for the analysis of high-throughput sequencing data, specifically from short-read low-coverage experimenys. 
 Whilst being the main group behind [ngsTools](https://github.com/mfumagalli/ngsTools), we also contributed to features in [ANGSD](http://www.popgen.dk/angsd/index.php/ANGSD).
 Some of our most popular tools include [ngsLD](https://github.com/fgvieira/ngsLD) for the inference of linkage disequilibrium from unphased data, and a [tutorial](https://github.com/mfumagalli/ngsTools/blob/master/TUTORIAL.md) on ANGSD/ngsTools. 
@@ -27,11 +25,11 @@ _Consultancy fees are funneled to our internal research funding to support our w
 
 ------------------------------------------
 
-Return to [homepage] (https://mfumagalli.github.io/who-we-are) or find out
+Return to [homepage](https://mfumagalli.github.io) or find out
 - [who we are](https://mfumagalli.github.io/who-we-are)
 - [what we do](https://mfumagalli.github.io/what-we-do) 
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
-- [news](https://mfumagalli.github.io/news).
+- [our latest news](https://mfumagalli.github.io/news)
 
 
 
