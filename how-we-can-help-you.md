@@ -1,6 +1,7 @@
 
-We implemented software for the analysis of high-throughput sequencing data, specifically from short-read low-coverage experimenys. 
-Whilst being the main group behind [ngsTools](https://github.com/mfumagalli/ngsTools), we also contributed to features in [ANGSD](http://www.popgen.dk/angsd/index.php/ANGSD).
+We develop methods and implement software for the analysis of high-throughput sequencing data, specifically from short-read low-coverage experimenys. 
+Whilst being the main group behind [ngsTools](https://github.com/mfumagalli/ngsTools) and [ngsJulia](https://github.com/mfumagalli/ngsJulia
+), we also contribute to features in [ANGSD](http://www.popgen.dk/angsd/index.php/ANGSD).
 Some of our most popular tools include [ngsLD](https://github.com/fgvieira/ngsLD) for the inference of linkage disequilibrium from unphased data, and a [tutorial](https://github.com/mfumagalli/ngsTools/blob/master/TUTORIAL.md) on ANGSD/ngsTools. 
 We also provide the community with [ImaGene](https://github.com/mfumagalli/ImaGene) and [BaSe](https://github.com/ulasisik/balancing-selection), software for deep learning applications in population genomics.
 
