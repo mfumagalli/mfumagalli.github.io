@@ -21,7 +21,6 @@ Our research has been (or is still) kindly funded by:
 - [Human Frontier Science Program](https://www.hfsp.org/)
 - [European Molecular Biology Organization](https://www.embo.org/)
 - [La Nostra Famiglia](https://lanostrafamiglia.it/) \\
-as well as by internal funding from Imperial College London and QMUL.
 
 ------------------------------------------
 

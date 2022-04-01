@@ -20,7 +20,7 @@ Matteo Fumagalli is a Fellow of the Higher Education Academy and holds a PG Cert
 
 We have delivered speeches or keynote addresses to a lay audience on various topics, from human genetics to evolution.
 
-_Consultancy fees are funneled to our internal research funding to support our work. Speaker fees are donated to charity._
+_Consultancy fees are channeled into our internal resources to support our work. Speaker fees are donated to fund scholarships and studentships for students from underrepresented groups or those facing financial barriers._
 
 
 ------------------------------------------
