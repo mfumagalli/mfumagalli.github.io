@@ -1,5 +1,7 @@
 
-Under construction.
+Under construction. While waiting, please check
+- [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en) profile
+- [EvoGenomics.AI](www.evogenomics.ai)
 
 ------------------------------------------
 
