@@ -2,7 +2,7 @@
 The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London.
 
 The team is currently comprised of:
-- [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): PI, [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en) and [ORCiD](https://orcid.org/0000-0002-4084-2953) profile
+- [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
 - TBA in late 2022
 
 Former members are Alex Mas-Sandoval and Calum Pennington. 
@@ -26,7 +26,7 @@ We encourage inquiries and applications from historically underrepresented group
 Return to [homepage](https://mfumagalli.github.io) or find out
 - [what we do](https://mfumagalli.github.io/what-we-do) 
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
-- our latest [news](https://mfumagalli.github.io/news)
+- [our blog](https://mfumagalli.github.io/blog)
 
 
 

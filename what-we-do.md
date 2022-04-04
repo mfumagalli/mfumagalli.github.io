@@ -39,7 +39,7 @@ Our research has been (or is still) kindly funded by:
 Return to [homepage](https://mfumagalli.github.io) or find out
 - [who we are](https://mfumagalli.github.io/who-we-are)
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
-- our latest [news](https://mfumagalli.github.io/news)
+- [our blog](https://mfumagalli.github.io/blog)
 
 
 
