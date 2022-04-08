@@ -3,13 +3,13 @@ We are mainly interested in addressing the following questions.
 
 # Has evolution shaped our predisposition to disease?
 
-As humans encounter new environments, adaptation shapes genetic similarities and differences among populations through the action of natural selection.
-With a change in environment, previously beneficial mutations may have a detrimental effect and contribute to disease susceptibility.
+As humans encountered new environments, adaptation shaped thegenetic similarities and differences among populations through the action of natural selection.
+In a changing environment, previously beneficial mutations may have a detrimental effect and contribute to disease susceptibility.
 We investigate how much natural selection has maintained disease-associated genetic variants in human populations, as a result of exposure of new [pathogens](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002355), [diet regimes](https://elifesciences.org/articles/41517), or [extreme environments](https://www.science.org/doi/abs/10.1126/science.aab2319).
 
 # How do we extract reliable information from biological experiments?
 
-Whilst new high-throughput sequencing technologies allows for rapid generation of genomic data, the information they provide is associated with uncertainty and errors.
+Whilst new high-throughput sequencing technologies allow for rapid generation of genomic data, the information they provide is associated with uncertainty and errors.
 We develop [statistical methods](https://academic.oup.com/genetics/article-abstract/195/3/979/5935465) and implement [software](https://academic.oup.com/bioinformatics/article-abstract/30/10/1486/267009) for the bioinformatic analysis of genomic sequencing data.
 We are particularly interested in estimating population genetic parameters from low-coverage sequencing data of [non-model systems](https://www.biorxiv.org/content/10.1101/2021.06.29.450340.abstract).
 

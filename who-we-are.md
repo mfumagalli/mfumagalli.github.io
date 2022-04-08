@@ -8,8 +8,6 @@ The team is currently comprised of:
 Former members are Alex Mas-Sandoval and Calum Pennington. 
 We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL.
 
-We nurture an inclusive and supportive environment, where everyone is appreciated and positively contributes to the wellbeing of fellow lab members.
-
 ------------------------------------------------------
 
 We are actively recruiting new members to join our team to conduct research in genomics, bioinformatics, evolutionary biology, and machine learning. 
@@ -20,6 +18,7 @@ Prospective __PhD students__ should browse through the available [studentships](
 Prospective __postdocs__ should read available [funding opportunities](https://www.qmul.ac.uk/sbbs/research/postdoctoral_fellowships/).
 
 We encourage inquiries and applications from historically underrepresented groups in academia and STEM.
+We nurture an inclusive and supportive environment, where everyone is appreciated and positively contributes to the wellbeing of fellow lab members.
 
 ------------------------------------------
 
