@@ -1,6 +1,4 @@
 
-[Under construction]({% post_url 2022-04-04-Under-construction %})
-
 <ul>
   {% for post in site.posts %}
     <li>

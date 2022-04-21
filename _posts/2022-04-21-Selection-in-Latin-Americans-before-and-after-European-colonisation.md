@@ -1,8 +1,5 @@
 
----
-layout: post
-title:  "Disentangling signatures of selection before and after European colonization in Latin Americans"
----
+# Disentangling signatures of selection before and after European colonization in Latin Americans
 
 We are happy to have contributed to the latest published study by Javier Mendoza-Revilla and Garrett Hellenthal on detecting adaptive signals before and after European contact in admixed Latin Americans. 
 The paper is available for download [here](/assets/javier_paper.pdf).
