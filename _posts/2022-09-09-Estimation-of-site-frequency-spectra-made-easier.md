@@ -1,6 +1,4 @@
 
-description: ...
-
 # Estimation of multidimensional site frequency spectra from low-coverage sequencing data
 
 ## A faster and more efficient implementation
