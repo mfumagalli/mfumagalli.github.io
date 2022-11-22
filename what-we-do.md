@@ -11,7 +11,7 @@ We investigate how much natural selection has maintained disease-associated gene
 
 Whilst new high-throughput sequencing technologies allow for rapid generation of genomic data, the information they provide is associated with uncertainty and errors.
 We develop [statistical methods](https://academic.oup.com/genetics/article-abstract/195/3/979/5935465) and implement [software](https://academic.oup.com/bioinformatics/article-abstract/30/10/1486/267009) for the bioinformatic analysis of genomic sequencing data.
-We are particularly interested in estimating population genetic parameters from low-coverage sequencing data of [non-model systems](https://www.biorxiv.org/content/10.1101/2021.06.29.450340.abstract).
+We are particularly interested in estimating population genetic parameters from low-coverage sequencing data of [non-model systems](https://peercommunityjournal.org/articles/10.24072/pcjournal.178/).
 
 # Is Artificial Intelligence able to solve the unsolvable in evolutionary studies?
 
@@ -29,6 +29,7 @@ We support disruptive actions to this aim.
 -----------------------------------------
 
 Our research has been (or is still) kindly funded by:
+- [NERC](https://www.ukri.org/councils/nerc/)
 - [The Leverhulme Trust](https://www.leverhulme.ac.uk/)
 - [Human Frontier Science Program](https://www.hfsp.org/)
 - [European Molecular Biology Organization](https://www.embo.org/)
