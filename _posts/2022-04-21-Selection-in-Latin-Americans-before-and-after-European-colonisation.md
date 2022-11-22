@@ -25,4 +25,9 @@ This study opens further research directions on the effects of selective pressur
 It also demonstrate the utility of analysing genomes of admixed individuals for human evolutionary inferences.
 It finally shows the potential of inclusive and collaborative science and the contribution of all volunteers who participated in this study.
 
+------------------------------------------
+
+Return to [our blog](https://mfumagalli.github.io/blog)
+
+
 

@@ -22,6 +22,11 @@ Its journal is golden open-access, meaning that neither authors nor readers pay.
 Would not signing the [PCI Manifesto](https://peercommunityin.org/pci-manifesto/) for free open access to scientific publications? 
 
 
+------------------------------------------
+
+Return to [our blog](https://mfumagalli.github.io/blog)
+
+
 
 
 

@@ -23,4 +23,10 @@ We verified these expectations by means of extenstive simulations and by recover
 The new implementation opens up new possibilities of estimating the SFS for large and noisy data sets, whilst decreasing the experimental cost of generating high-quality genomes. 
 It also spurs new [new](https://www.biorxiv.org/content/10.1101/2022.05.24.493190) investigations for better optimisations of the likelihood function. 
 
+------------------------------------------
+
+Return to [our blog](https://mfumagalli.github.io/blog)
+
+
+
 
