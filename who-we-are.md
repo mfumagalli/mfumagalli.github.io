@@ -3,6 +3,7 @@ The Fumagalli Lab is affiliated with the [School of Biological and Behavioural S
 
 The team is currently comprised of:
 - Amelia Eneli
+- Jacky Pui Chung Siu
 - Janeesh Kaur Bansal
 - [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
 - Yuemin Li
