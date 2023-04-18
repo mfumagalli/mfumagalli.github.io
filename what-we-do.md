@@ -19,7 +19,7 @@ One of the main scientific advancements in recent years is the improved predicti
 We pioneer the use of machine learning algorithms for the inference of past demographic history, admixture events, and genes under [positive](https://link.springer.com/article/10.1186/s12859-019-2927-x) and [balancing](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13379) selection from genomic data.
 We established the [EvoGenomics.AI](https://www.evogenomics.ai/) for the dissemination of new findings, including a [review](https://doi.org/10.1093/gbe/evad008) in the application of Artificial Intelligence in evolutionary genomics. 
 
-# Why should we transition to ethical publishing for an inclusive and accessible science?
+# Why should we transition to ethical publishing for inclusive and accessible science?
 
 We actively promote the use of not-for-profit publishing routes, including society-based or community-based journals and peer-review platforms such as [Peer Community In](https://peercommunityin.org/).
 We stand against barriers to public dissemination of sciences such as paywall, article-processing-charges (APCs), and journal suscriptions.
@@ -29,7 +29,7 @@ We support disruptive actions to this aim.
 -----------------------------------------
 
 Our research has been (or is still) kindly funded by:
-- [NERC](https://www.ukri.org/councils/nerc/) 2023
+- [NERC](https://www.ukri.org/councils/nerc/) 2023 and 2023-2026
 - [The Leverhulme Trust](https://www.leverhulme.ac.uk/) 2018-2022
 - [Human Frontier Science Program](https://www.hfsp.org/) 2014-2016
 - [European Molecular Biology Organization](https://www.embo.org/) 2012-2013
