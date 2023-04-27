@@ -10,7 +10,12 @@ The team is currently comprised of:
 - [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
 - Yuemin Li
 
-Former members are Alex Mas-Sandoval and Calum Pennington. 
+---------------------
+
+Alumni
+- Alex Mas-Sandoval (postdoc 2019-2021) now a research fellow and adjuct professor at University of Bologna
+- Calum Pennington (PhD student 2019-2020)
+
 We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL.
 
 ------------------------------------------------------
