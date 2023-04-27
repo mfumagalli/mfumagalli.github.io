@@ -1,6 +1,8 @@
 
 The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London.
 
+![](Lab1.png)
+
 The team is currently comprised of:
 - Amelia Eneli
 - Jacky Pui Chung Siu

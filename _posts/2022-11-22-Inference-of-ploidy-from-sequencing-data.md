@@ -1,4 +1,8 @@
 
+# What is the ploidy of my sample?
+
+## A new and powerful method
+
 In our latest [paper](https://peercommunityjournal.org/articles/10.24072/pcjournal.178/) published in [Peer Community Journal](https://peercommunityjournal.org/), Mathematical and Computational Biology section, we present a new method, and software, to estimate ploidy from low-depth sequencing data.
 
 The inference of ploidy levels from high-throughput sequencing data is essential to shed light onto the molecular mechanisms underpinning genome evolution. 
