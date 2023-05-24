@@ -4,7 +4,7 @@ Find out [who we are](https://mfumagalli.github.io/who-we-are),
 [how we can help you](https://mfumagalli.github.io/how-we-can-help-you), 
 or read [our blog](https://mfumagalli.github.io/blog).
 
-![](assets/logo.png)
+![](assets/Fumagalli_Lab.PNG)
 
 
 
