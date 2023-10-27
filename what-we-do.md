@@ -30,7 +30,7 @@ We support disruptive actions to this aim.
 
 Our research has been (or is still) kindly funded by:
 - [NERC](https://www.ukri.org/councils/nerc/) 2023 and 2023-2026
-- [The Leverhulme Trust](https://www.leverhulme.ac.uk/) 2018-2022
+- [The Leverhulme Trust](https://www.leverhulme.ac.uk/) 2019-2022
 - [Human Frontier Science Program](https://www.hfsp.org/) 2014-2016
 - [European Molecular Biology Organization](https://www.embo.org/) 2012-2013
 - [La Nostra Famiglia](https://lanostrafamiglia.it/) 2008-2011
