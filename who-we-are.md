@@ -1,20 +1,20 @@
 
 The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London.
 
-![](assets/Lab1.png)
+![](assets/Lab-lunch-2023.jpg)
 
 The team is currently comprised of:
 - Amelia Eneli
-- Jacky Pui Chung Siu
 - Janeesh Kaur Bansal: [ORCiD](https://orcid.org/0000-0002-1974-9738), [Linkedin](https://uk.linkedin.com/in/janeesh-kaur-bansal), and [GitHub](https://github.com/JaneeshBansal) profiles
 - [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
 - Yuemin Li: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-6550-8786), [Linkedin](https://www.linkedin.com/in/yuemin-li-057a841a2/), and [GitHub](https://github.com/li-yuemin) profiles
-
+- Roudin Sarama
 
 ---------------------
 
 Alumni
-- Alex Mas-Sandoval (postdoc 2019-2021) now a research fellow and adjuct professor at University of Bologna
+- Jacky Pui Chung Siu (junior Research Assistant 2023), now PhD student in AI for Drug Discovery
+- Alex Mas-Sandoval (postdoc 2019-2021), now a research at the University of Bologna
 - Calum Pennington (PhD student 2019-2020)
 
 We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL.
