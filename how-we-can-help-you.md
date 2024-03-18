@@ -29,7 +29,7 @@ _Consultancy fees are channeled into our internal resources to support our work.
 Return to [homepage](https://mfumagalli.github.io) or find out
 - [who we are](https://mfumagalli.github.io/who-we-are)
 - [what we do](https://mfumagalli.github.io/what-we-do) 
-- [our publications](https://mfumagalli.github.io/publications)
+- [our publications](https://mfumagalli.github.io/blog)
 
 
 

@@ -36,7 +36,7 @@ We nurture an inclusive and supportive environment, where everyone is appreciate
 Return to [homepage](https://mfumagalli.github.io) or find out
 - [what we do](https://mfumagalli.github.io/what-we-do) 
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
-- [our publications](https://mfumagalli.github.io/publications)
+- [our publications](https://mfumagalli.github.io/blog)
 
 
 
