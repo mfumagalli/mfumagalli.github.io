@@ -1,5 +1,5 @@
 
-A collection of our blog posts is listed here.
+A collection of our recent publications is listed here.
 
 <ul>
   {% for post in site.posts %}
