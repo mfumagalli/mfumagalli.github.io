@@ -16,7 +16,6 @@ Finally, we are able to distinguish skewed offspring distribution from selection
 
 Our findings stress the aptitude of neural networks to leverage information from the ARG for inference but also the urgent need for more accurate ARG inference approaches.
 
-The paper is available for download [here](/assets/Kevin_paper.pdf).
 
 
 
