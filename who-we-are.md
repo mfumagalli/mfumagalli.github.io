@@ -1,5 +1,5 @@
 
-The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London. We also enjoy an affiliation with the [Alan Turing Institute](turing.ac.uk).
+The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London. We also enjoy an affiliation with the [Alan Turing Institute](https://www.turing.ac.uk).
 
 ![](assets/Lab-lunch-2023.jpg)
 
