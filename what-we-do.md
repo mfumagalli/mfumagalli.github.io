@@ -17,7 +17,7 @@ We are particularly interested in estimating population genetic parameters from 
 
 One of the main scientific advancements in recent years is the improved predictive power of Artificial Intelligence.
 We pioneer the use of machine learning algorithms for the inference of past demographic history, admixture events, and genes under [positive](https://link.springer.com/article/10.1186/s12859-019-2927-x) and [balancing](https://onlinelibrary.wiley.com/doi/abs/10.1111/1755-0998.13379) selection from genomic data.
-We established the [EvoGenomics.AI](https://www.evogenomics.ai/) for the dissemination of new findings, including a [review](https://doi.org/10.1093/gbe/evad008) in the application of Artificial Intelligence in evolutionary genomics. 
+We established the [EvoGenomics.AI](https://www.evogenomics.ai/) consortium for the dissemination of new findings, and wrote a [review](https://doi.org/10.1093/gbe/evad008) on applications of Artificial Intelligence in evolutionary genomics. 
 
 # Why should we transition to ethical publishing for inclusive and accessible science?
 
@@ -28,7 +28,7 @@ We support disruptive actions to this aim.
 
 -----------------------------------------
 
-Our research has been (or is still) kindly funded by:
+Our research has been (or is still) externally kindly funded by:
 - [NERC](https://www.ukri.org/councils/nerc/) 2023 and 2023-2026
 - [The Leverhulme Trust](https://www.leverhulme.ac.uk/) 2019-2021
 - [Human Frontier Science Program](https://www.hfsp.org/) 2014-2016
