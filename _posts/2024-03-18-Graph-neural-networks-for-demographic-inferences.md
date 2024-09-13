@@ -9,13 +9,14 @@ The current methods developed to detect such multiple merger events do not accou
 
 We tackle these limitations by developing two novel and different approaches to infer multiple merger events from sequence data or the ancestral recombination graph (ARG): a sequentially Markovian coalescent and a graph neural network (GNNcoal). 
 
+![](/assets/GNN.png)
+
 We first give proof of the accuracy of our methods to estimate the multiple merger parameter and past demographic history using simulated data under the beta-coalescent model. 
 Secondly, we show that our approaches can also recover the effect of positive selective sweeps along the genome. 
 Finally, we are able to distinguish skewed offspring distribution from selection while simultaneously inferring the past variation of population size. 
 
 Our findings stress the aptitude of neural networks to leverage information from the ARG for inference but also the urgent need for more accurate ARG inference approaches.
 
-
-
+The paper is available [here](/assets/Kevin_paper.pdf).
 
 
