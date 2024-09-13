@@ -21,7 +21,8 @@ Alumni
 - Alex Mas-Sandoval (postdoc 2019-2021), now a research associate at the University of Bologna
 - Calum Pennington (PhD student 2019-2021)
 
-We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL.
+We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL
+In particular, we thank Lucrezia Lorenzon, Fabrizia Salvatore, Samuele Soraggi, Jonas Meisner, and Israel Benoni Vallejo Beristain.
 
 ------------------------------------------------------
 
