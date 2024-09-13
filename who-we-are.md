@@ -10,8 +10,8 @@ The team is currently comprised of:
 - [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
 - Roudin Sarama
 - Yuemin Li: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-6550-8786), [Linkedin](https://www.linkedin.com/in/yuemin-li-057a841a2/), and [GitHub](https://github.com/li-yuemin) profiles
-and
-- Janeesh Kaur Bansal: [ORCiD](https://orcid.org/0000-0002-1974-9738), [Linkedin](https://uk.linkedin.com/in/janeesh-kaur-bansal), and [GitHub](https://github.com/JaneeshBansal) profiles
+
+and our guest Janeesh Kaur Bansal: [ORCiD](https://orcid.org/0000-0002-1974-9738), [Linkedin](https://uk.linkedin.com/in/janeesh-kaur-bansal), and [GitHub](https://github.com/JaneeshBansal) profiles
 
 
 ---------------------
