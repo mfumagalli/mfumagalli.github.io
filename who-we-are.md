@@ -29,7 +29,7 @@ In particular, we thank Lucrezia Lorenzon, Fabrizia Salvatore, Samuele Soraggi, 
 We are actively recruiting new members to join our team to conduct research in genomics, bioinformatics, evolutionary biology, and machine learning. 
 Contact [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html) for any queries. 
 
-Prospective __PhD students__ should browse through the available [studentships](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/postgraduate-research-studentships/) or apply via [international calls](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/fees-funding/), which are suitable for applicants from China, Mexico, Colombia, the Commonwealth, Pakistan, Islamic Development Bank countries, Egypt, among other countries.
+Prospective __PhD students__ should browse through available studentships in the [School](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/postgraduate-research-studentships/) or [Faculty](https://www.seresearch.qmul.ac.uk/phdstudents/), or apply via [international calls](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/fees-funding/), which are suitable for applicants from China, Mexico, Colombia, the Commonwealth, Pakistan, Islamic Development Bank countries, Egypt, among other countries.
 
 Prospective __postdocs__ should read available [funding opportunities](https://www.qmul.ac.uk/sbbs/research/postdoctoral_fellowships/).
 
@@ -41,7 +41,7 @@ We nurture an inclusive and supportive environment, where everyone is appreciate
 Return to [homepage](https://mfumagalli.github.io) or find out
 - [what we do](https://mfumagalli.github.io/what-we-do) 
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
-- [our publications](https://mfumagalli.github.io/blog)
+- [our deliverables](https://mfumagalli.github.io/blog)
 
 
 

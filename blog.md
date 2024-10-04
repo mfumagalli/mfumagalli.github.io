@@ -1,5 +1,5 @@
 
-A collection of our recent publications and their summary is listed here.
+A collection of our recent deliverables (since our relocation to QMUL) and their summary is listed here.
 
 <ul>
   {% for post in site.posts %}

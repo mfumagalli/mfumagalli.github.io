@@ -40,7 +40,7 @@ Our research has been (or is still) externally kindly funded by:
 Return to [homepage](https://mfumagalli.github.io) or find out
 - [who we are](https://mfumagalli.github.io/who-we-are)
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
-- [our publications](https://mfumagalli.github.io/blog)
+- [our deliverables](https://mfumagalli.github.io/blog)
 
 
 
