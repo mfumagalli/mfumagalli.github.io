@@ -28,8 +28,12 @@ We support disruptive actions to this aim.
 
 -----------------------------------------
 
-Our research has been (or is still) externally kindly funded by:
-- [NERC](https://www.ukri.org/councils/nerc/) 2023 and 2023-2026
+Our research is externally kindly funded by:
+- [Barts Charity](https://www.bartscharity.org.uk/) 2025-2026
+- [NERC](https://www.ukri.org/councils/nerc/) 2023-2026
+
+Past funders are:
+- [NERC](https://www.ukri.org/councils/nerc/) 2023
 - [The Leverhulme Trust](https://www.leverhulme.ac.uk/) 2019-2021
 - [Human Frontier Science Program](https://www.hfsp.org/) 2014-2016
 - [European Molecular Biology Organization](https://www.embo.org/) 2012-2013
