@@ -22,7 +22,7 @@ Alumni
 - Alex Mas-Sandoval (postdoc 2018-2021), now a research fellow  at the University of Bologna
 
 We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL
-In particular, we thank Lucrezia Lorenzon, Fabrizia Salvatore, Samuele Soraggi, Jonas Meisner, and Israel Benoni Vallejo Beristain.
+In particular, we thank Kevin Korfmann, Lucrezia Lorenzon, Pedro Nicesio do Amaral, Fabrizia Salvatore, Samuele Soraggi, Jonas Meisner, and Israel Benoni Vallejo Beristain.
 
 ------------------------------------------------------
 
