@@ -5,7 +5,6 @@ The diversification of the curriculum is a common approach in inclusive educatio
 
 Queen Mary University of London has the most diverse and first-gen cohort of students among the top research-intensive universities in England, representing the best case study to implement and evaluate practises to remove barriers. Initiatives like the Centre for Academic Inclusion in Science and Engineering (CAISE) support staff to champions inclusive education and fulfil the university’s strategy to become the most inclusive university of our kind.
 
-![](/assets/diversify.png)
 
 We created a portfolio of scientists with historically underrepresented identities who have significantly contributed to our taught material in biological and behavioural sciences. We focused on several identities including ethnicity, gender, sexual orientation, religion, neurodivergence, and their intersectionality. The portfolio links profiles with keywords and taught modules making it seamlessly for lecturers to enrich their teaching material.
 The following is an example of a biography we provide in our portfolio.
