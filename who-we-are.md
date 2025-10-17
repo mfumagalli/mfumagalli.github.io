@@ -29,9 +29,9 @@ In particular, we thank Kevin Korfmann, Lucrezia Lorenzon, Pedro Nicesio do Amar
 We are actively recruiting new members to join our team to conduct research in genomics, bioinformatics, evolutionary biology, and machine learning. 
 Contact [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html) for any queries. 
 
-Prospective __PhD students__ should browse through available studentships in the [School](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/postgraduate-research-studentships/) or [Faculty](https://www.seresearch.qmul.ac.uk/phdstudents/), or apply via [international calls](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/fees-funding/), which are suitable for applicants from China, Mexico, Colombia, the Commonwealth, Pakistan, Islamic Development Bank countries, Egypt, among other countries.
+Prospective __PhD students__ should browse through available studentships in the [School](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/postgraduate-research-studentships/) or [Faculty](https://www.seresearch.qmul.ac.uk/doctoraltraining/), or apply via [international calls](https://www.qmul.ac.uk/sbbs/postgraduate/phd-programmes/fees-funding/), which are suitable for applicants from China, Mexico, Colombia, the Commonwealth, Pakistan, Islamic Development Bank countries, Egypt, among other countries.
 
-Prospective __postdocs__ should read available [funding opportunities](https://www.qmul.ac.uk/sbbs/research/postdoctoral_fellowships/).
+Prospective __postdocs__ should read available [fellowship opportunities](https://www.qmul.ac.uk/sbbs/research/postdoctoral-research-community/resources/postdoctoral_fellowships/).
 
 We encourage inquiries and applications from historically underrepresented groups in academia and STEM.
 We nurture an inclusive and supportive environment, where everyone is appreciated and positively contributes to the wellbeing of fellow lab members.
