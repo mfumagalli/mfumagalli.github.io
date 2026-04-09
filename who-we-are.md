@@ -1,25 +1,25 @@
 
-The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London. We also enjoy an affiliation with the [Alan Turing Institute](https://www.turing.ac.uk).
+The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London.
 
 ![](assets/Sheffield.jpeg)
 
 The team is currently comprised of:
 - Aicha Taher
 - Amelia Eneli
-- Baron Koylass
-- Erwan Pennarun
+- [Baron Koylass](https://www.qmul.ac.uk/sbbs/staff/baronkoylass.html)
+- [Erwan Pennarun](https://www.qmul.ac.uk/wiph/people/profiles/erwan-pennarun-.html)
+- Maria Fernanda Miron Toruno
 - [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
-- Roudin Sarama
-- Yuemin Li: [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-6550-8786), [Linkedin](https://www.linkedin.com/in/yuemin-li-057a841a2/), and [GitHub](https://github.com/li-yuemin) profiles
+- [Roudin Sarama](https://www.qmul.ac.uk/sbbs/staff/roudinsarama.html)
+- [Yuemin Li](https://www.qmul.ac.uk/sbbs/staff/yueminli.html): [ORCiD](https://orcid.org/my-orcid?orcid=0000-0001-6550-8786), [Linkedin](https://www.linkedin.com/in/yuemin-li-057a841a2/), and [GitHub](https://github.com/li-yuemin) profiles
 
-and our guests Syam Budi Iryanto and Janeesh Kaur Bansal: [ORCiD](https://orcid.org/0000-0002-1974-9738), [Linkedin](https://uk.linkedin.com/in/janeesh-kaur-bansal), and [GitHub](https://github.com/JaneeshBansal) profiles
-
+and our guests Syam Budi Iryanto and Janeesh Kaur Bansal.
 
 ---------------------
 
 Alumni
 - Pui "Jacky" Chung Siu (junior Research Assistant 2023, 2024), now PhD student in AI for Drug Discovery
-- Alex Mas-Sandoval (postdoc 2018-2021), now a research fellow  at the University of Bologna
+- Alex Mas-Sandoval (postdoc 2018-2021), now at the University of Burgos
 
 We acknowledge many undergraduate, postgraduate, and visiting students who conducted their research projects in our lab at UCL, Imperial College London, and QMUL
 In particular, we thank Kevin Korfmann, Lucrezia Lorenzon, Pedro Nicesio do Amaral, Fabrizia Salvatore, Samuele Soraggi, Jonas Meisner, and Israel Benoni Vallejo Beristain.
@@ -42,6 +42,7 @@ Return to [homepage](https://mfumagalli.github.io) or find out
 - [what we do](https://mfumagalli.github.io/what-we-do) 
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
 - [our deliverables](https://mfumagalli.github.io/blog)
+- [news](https://mfumagalli.github.io/news.md)
 
 
 
