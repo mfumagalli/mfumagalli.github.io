@@ -16,6 +16,6 @@ We contributed to this study by showing that site frequency spectra indicate tha
 
 Our results thus suggest that conservation efforts should focus on protecting small-island high-quality habitats and avoiding translocations from mainland populations. This study highlights the crucial role of small offshore islands for the long-term survival of Wallacea's iconic and indigenous mammals in the face of development on the mainland.
 
-The paper is available [here](/assets/Island_paper.png).
+The paper is available [here](/assets/Island_paper.pdf).
 
 
