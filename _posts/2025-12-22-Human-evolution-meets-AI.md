@@ -1,5 +1,5 @@
 
-#Reimagining human population genetics in the age of Artificial Intelligence
+# Reimagining human population genetics in the age of Artificial Intelligence
 
 In recent years, deep learning, a branch of artificial intelligence (AI), has reshaped how population geneticists analyse data, generate hypotheses, and model evolutionary processes.
 The shift to data-driven methods facilitates the integration of diverse data types, such as environmental and phenotypic information, with genomic data. However, it also raises important ethical and political questions about how these tools are developed, shared, interpreted, and applied.
