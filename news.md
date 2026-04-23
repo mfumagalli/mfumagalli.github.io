@@ -1,7 +1,7 @@
 
-#News
 
-##April 2026
+
+__April 2026__
 
 We are very happy to host Somnath Chindhe and Natalie Sukow, PhD students from the University of Turku (Finland) and Universidade Federal de Minas Gerais (Brazil), respecively.
 
