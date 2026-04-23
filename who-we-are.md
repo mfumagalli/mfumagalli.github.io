@@ -42,7 +42,7 @@ Return to [homepage](https://mfumagalli.github.io) or find out
 - [what we do](https://mfumagalli.github.io/what-we-do) 
 - [how we can help you](https://mfumagalli.github.io/how-we-can-help-you)
 - [our deliverables](https://mfumagalli.github.io/blog)
-- [news](https://mfumagalli.github.io/news.md)
+- [news](https://mfumagalli.github.io/news)
 
 
 
