@@ -10,9 +10,9 @@ natural selection. Understanding changes in population size, migration patterns,
 assist malaria control interventions, with the ultimate goal of predicting nuanced outcomes from insecticide resistance to population
 collapse.
 
-The paper is available for download [here](/assets/amelia_paper.pdf).
-
 ![](/assets/amelia_paper.png)
+
+The paper is available for download [here](/assets/amelia_paper.pdf).
 
 ------------------------------------------
 
