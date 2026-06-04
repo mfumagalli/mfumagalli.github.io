@@ -1,7 +1,7 @@
 
 __June 2026__
 
-Kawan Santana is visiting our lab from the University of Sao Paulo (Brazil) on estimating LD for pathogen genomes co-supervised by Rodrigo Corder.
+Kawan Santana is visiting our lab from the University of Sao Paulo (Brazil) to work on estimating linkage disequilibrium for pathogen genomes co-supervised by Rodrigo Corder.
 
 __May 2026__
 
