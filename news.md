@@ -28,6 +28,7 @@ Matteo gave a talk our on work on synthetic data, and Cindy (in the picture with
 
 ![](/assets/cindy-sandipan.png)
 
+.
 
 ------------------------------------------
 
