@@ -3,15 +3,15 @@ __July 2026__
 
 A busy start of the month! Many of us went to SMBE in Copenhagen while others went to ExE in Cornwall.
 Well done Yuemin, Matteo and Roudin for presenting their work, and to Cindy for co-hosting a symposium.
-Roudin was also awarded a Young Investigator Award.
+Roudin was also awarded an SMBE Young Investigator Award.
 
 ![](/assets/smbe-exe.png)
 
 __June 2026__
 
 Kawan Santana is visiting our lab from the University of Sao Paulo (Brazil) to work on estimating linkage disequilibrium for pathogen genomes co-supervised by Rodrigo Corder.
-Here he is (second frm the right) enjoying the local Punjabi cousine.
-Also, Aicha picked up another award as best poster as PhD student in our School.
+Here he is (second frm the right) enjoying the local Punjabi dishes.
+Also, Aicha picked up another award as best poster from a PhD student in our School.
 
 ![](/assets/kawan.png)
 
