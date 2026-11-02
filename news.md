@@ -1,4 +1,10 @@
 
+__October 2026__
+
+The Fumagalli Team is proud to announce the signing of Jaime, a graduate from the School Academy, on a 4-year contract. Coach Fumagalli comments: "We are happy that Jaime has joined our ranks. His skills on domain adaptation and ability with trascriptomic data will allow the team to attack new lines of research".  
+
+![](/assets/jaime.jpeg)
+
 __July 2026__
 
 A busy start of the month! Many of us went to SMBE in Copenhagen while others went to ExE in Cornwall.
