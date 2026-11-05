@@ -4,7 +4,7 @@ __October 2026__
 The Fumagalli Team is proud to announce the signing of Jaime, a graduate from the School Academy, on a 4-year contract. Coach Fumagalli comments: "We are happy that Jaime has joined our ranks. His skills on domain adaptation and ability with trascriptomic data will allow the team to attack new lines of research". 
 Jaime's official debut in the squad is planned in November, replacing the experienced Team Captain Yuemin who has signed a deal with a new club.  
 
-![](/assets/jaime.jpeg)
+![](/assets/Jaime.png)
 
 __July 2026__
 
