@@ -1,13 +1,16 @@
 
 The Fumagalli Lab is affiliated with the [School of Biological and Behavioural Sciences](https://www.qmul.ac.uk/sbbs/) and the [Digital Environment Research Institute](https://www.qmul.ac.uk/deri/) at Queen Mary University of London.
 
-![](assets/Sheffield.jpeg)
+![](assets/Amber.png)
+
+(Aicha, Amelia and Fernanda not in the photo)
 
 The team is currently comprised of:
 - Aicha Taher
 - Amelia Eneli
 - [Baron Koylass](https://www.qmul.ac.uk/sbbs/staff/baronkoylass.html)
 - [Erwan Pennarun](https://www.qmul.ac.uk/wiph/people/profiles/erwan-pennarun-.html)
+- Jayme Duarte-Niemen
 - Maria Fernanda Miron Toruno
 - [Matteo Fumagalli](https://www.qmul.ac.uk/sbbs/staff/matteo-fumagalli.html): [Google Scholar](https://scholar.google.co.uk/citations?user=rQhiTmYAAAAJ&hl=en), [ORCiD](https://orcid.org/0000-0002-4084-2953) and [GitHub](https://github.com/mfumagalli/) profiles
 - [Roudin Sarama](https://www.qmul.ac.uk/sbbs/staff/roudinsarama.html)
